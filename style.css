@@ -1,0 +1,24 @@
+nav>ul{
+background-color:yellow;
+}
+p+h3{
+	background-color:pink;
+	color:blue;
+}
+section ul{
+	font-size:14pt;
+}
+header { 
+    border: 2px dashed black; 
+    color:red;
+}
+h3 {
+    margin: .5em 0 .25em;   
+	padding-left: 15px;
+	padding-right:15px;
+}
+a.active{
+	background-color:yellow;
+}
+
+
